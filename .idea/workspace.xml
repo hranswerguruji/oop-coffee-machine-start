@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e8dd05f-e884-492c-9a1f-9b3eded60547" name="Changes" comment="Integrated all methods in main.py and complete the project." />
+    <list default="true" id="3e8dd05f-e884-492c-9a1f-9b3eded60547" name="Changes" comment="Added 2 files:&#10;1. Coffee Machine Program Requirements&#10;2. Coffee Machine Classes Documentation" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,7 +43,8 @@
   "keyToString": {
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "oop-coffee-machine-start-main-logic-implementation"
+    "git-widget-placeholder": "oop-coffee-machine-start-main-logic-implementation",
+    "last_opened_file_path": "C:/Users/sansingh56/Desktop/PythonProgram/oop-coffee-machine-start"
   },
   "keyToStringList": {
     "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
@@ -51,6 +52,11 @@
     ]
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sansingh56\Desktop\PythonProgram\oop-coffee-machine-start" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -83,7 +89,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716008476977</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added 2 files:&#10;1. Coffee Machine Program Requirements&#10;2. Coffee Machine Classes Documentation">
+      <option name="closed" value="true" />
+      <created>1716008665252</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1716008665252</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -100,6 +114,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial coffee machine codes" />
     <MESSAGE value="Integrated all methods in main.py and complete the project." />
-    <option name="LAST_COMMIT_MESSAGE" value="Integrated all methods in main.py and complete the project." />
+    <MESSAGE value="Added 2 files:&#10;1. Coffee Machine Program Requirements&#10;2. Coffee Machine Classes Documentation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added 2 files:&#10;1. Coffee Machine Program Requirements&#10;2. Coffee Machine Classes Documentation" />
   </component>
 </project>
