@@ -1,15 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e8dd05f-e884-492c-9a1f-9b3eded60547" name="Changes" comment="" />
+    <list default="true" id="3e8dd05f-e884-492c-9a1f-9b3eded60547" name="Changes" comment="Added 2 files:&#10;1. Coffee Machine Program Requirements&#10;2. Coffee Machine Classes Documentation" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="oop-coffee-machine-start-main-logic-implementation" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "hranswerguruji"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/hranswerguruji/oop-coffee-machine-start",
+    "accountId": "c88542de-534f-403b-b23c-bb6bae32fd5a"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 3
 }]]></component>
@@ -21,10 +41,22 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "oop-coffee-machine-start-main-logic-implementation",
+    "last_opened_file_path": "C:/Users/sansingh56/Desktop/PythonProgram/oop-coffee-machine-start"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "PLAIN_TEXT"
+    ]
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sansingh56\Desktop\PythonProgram\oop-coffee-machine-start" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -41,6 +73,48 @@
       <option name="presentableId" value="Default" />
       <updated>1715923112447</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial coffee machine codes">
+      <option name="closed" value="true" />
+      <created>1715923404829</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1715923404829</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Integrated all methods in main.py and complete the project.">
+      <option name="closed" value="true" />
+      <created>1716008476977</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1716008476977</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added 2 files:&#10;1. Coffee Machine Program Requirements&#10;2. Coffee Machine Classes Documentation">
+      <option name="closed" value="true" />
+      <created>1716008665252</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1716008665252</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial coffee machine codes" />
+    <MESSAGE value="Integrated all methods in main.py and complete the project." />
+    <MESSAGE value="Added 2 files:&#10;1. Coffee Machine Program Requirements&#10;2. Coffee Machine Classes Documentation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added 2 files:&#10;1. Coffee Machine Program Requirements&#10;2. Coffee Machine Classes Documentation" />
   </component>
 </project>
